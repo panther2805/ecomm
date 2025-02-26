@@ -1,0 +1,6 @@
+# - Comment , this line will ignore by kubernetes
+
+# we can use key value
+key: value
+name: wasim
+city: hyd
